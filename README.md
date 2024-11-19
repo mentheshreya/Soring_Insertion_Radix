@@ -1,6 +1,5 @@
 # Soring_Insertion_Radix
-\Name: Shreya Menthe
-PRN: 124B2B003
+
 
 Assignment No. 1
 
